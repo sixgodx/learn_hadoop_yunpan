@@ -8,7 +8,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>hadoop云盘</title>
-<meta http-equiv="refresh" content="0.2;url=${ctx }/login.do">
+<meta http-equiv="refresh" content="0.2;url=${ctx }/LoginServlet">
 </head>
 <body>
 </body>

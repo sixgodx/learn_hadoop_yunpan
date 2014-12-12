@@ -34,7 +34,7 @@ body {
 				<h3 class="panel-title">hadoop云盘-用户登陆</h3>
 			</div>
 			<div class="panel-body">
-				<form role="form" action="${ctx }/login.do" method="post">
+				<form role="form" action="${ctx }/LoginServlet" method="post">
 					<div class="form-group">
 						<label for="username">username</label> <input type="text" class="form-control" id="username"
 							placeholder="username">
